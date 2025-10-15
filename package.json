@@ -1,0 +1,10 @@
+{
+  "name": "miro-ai-plugin",
+  "version": "1.0.0",
+  "description": "Miro AI automation starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
